@@ -1,0 +1,3 @@
+# https://docs.docker.com/build/building/context/#dockerignore-files
+node_modules/
+.git
